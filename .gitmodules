@@ -1,0 +1,4 @@
+[submodule "LHF_rtc"]
+	path = LHF_rtc
+	url = https://github.com/NMMI/LHF_rtc.git
+	ignore = dirty
